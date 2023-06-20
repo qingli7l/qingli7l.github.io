@@ -27,22 +27,22 @@ Patents
 Activities
 ======
 2017/07/14--2017/08/16 Chengdu Institute of Computer Application, Chinese Academy of Sciences
-<BR/>&emsp;&emsp;Intelligent Computing and Big Data Conference of Chengdu Information Technology of Chinese Academy of Sciences
+* Intelligent Computing and Big Data Conference of Chengdu Information Technology of Chinese Academy of Sciences
 <BR/>2017/10/13--2017/10/15 Nanjing, China
-<BR/>&emsp;&emsp;The 16th National Conference on Computer Linguistics（CCL2017）
+* The 16th National Conference on Computer Linguistics（CCL2017）
 <BR/>2017/11/14--2017/11/16 Chengdu, China
-<BR/>&emsp;&emsp;2017 Annual Conference of Sichuan Computer Society
+* 2017 Annual Conference of Sichuan Computer Society
 <BR/>2018/05/23--2018/05/25 Harbin, China
-<BR/>&emsp;&emsp;The 9th China Satellite Navigation Academic Annual Conference
+* The 9th China Satellite Navigation Academic Annual Conference
 <BR/>2018/07/06--2018/07/09 Chengdu, China
-<BR/>&emsp;&emsp;The 10th International Conference on Communication Software and Networks（Excellent Oral Presentation in ICCSN 2018）
+* The 10th International Conference on Communication Software and Networks（Excellent Oral Presentation in ICCSN 2018）
 <BR/>2020/10/11--2020/10/14 Canada, Toronto（Remotely）
-<BR/>&emsp;&emsp;IEEE SMC 2020 International Conference（Oral Presentation）
+* IEEE SMC 2020 International Conference（Oral Presentation）
       
 Awards and Honors
 ======
 2017/09--2019/06
-<BR/>&emsp;&emsp;National Scholarship; Excellent oral presentation in ICCSN 2018; Third Prize of the 14th China Postgraduate Mathematical Modeling Contest of "Huawei Cup"
+* National Scholarship; Excellent oral presentation in ICCSN 2018; Third Prize of the 14th China Postgraduate Mathematical Modeling Contest of "Huawei Cup"
 
 <BR/>2019/09—To Date
-<BR/>&emsp;&emsp;First-Class Scholarship in 2019-2023; Second Prize of the “CVPR Robust Classification Challenge 2022”
+* First-Class Scholarship in 2019-2023; Second Prize of the “CVPR Robust Classification Challenge 2022”
