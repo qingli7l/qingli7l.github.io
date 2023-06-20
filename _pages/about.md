@@ -52,5 +52,5 @@ Awards and Honors
 * 2022/08
 <br/> Second Prize of the “CVPR Robust Classification Challenge 2022”
 * 2019/09—2023/06
-<br/> First-Class Scholarship
+<br/> First-Class Scholarship at the Chongqing University of Posts and Telecommunications 
 
