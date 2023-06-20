@@ -14,11 +14,11 @@ I am a postdoc of Prof. [Yu Li](https://liyu95.com/) at the Department of Comput
 
 Publications
 ======
-* Q. Li, M. S. Shang, “[An Efficient Annealing-Assisted Differential Evolution for Multi-parameter Adaptive Latent Factor Analysis](https://link.springer.com/article/10.1186/s40537-022-00638-8)”, Journal of Big Data, 2022.
-*  Q. Li, D. W. Xiong, M. S. Shang, “[Adjusted Stochastic Gradient Descent for Latent Factor Analysis](https://www.sciencedirect.com/science/article/pii/S0020025521012871)”, Information Sciences, 588, pp. 196-213, 2022.
-*  Q. Li, M. S. Shang, “[BALFA: A Brain Storm Optimization-based Adaptive Latent Factor Analysis Model](https://www.sciencedirect.com/science/article/abs/pii/S0020025521008653)”, Information Sciences, 578, pp. 913-929, 2021.
-*  Q. Li and M. Shang, “[A Compressed Sensing and Porous 9-7 Wavelet Transform-based Image Fusion Algorithm](https://ieeexplore.ieee.org/document/9283284/),” 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Toronto, ON, 2020, pp. 4185-4191.
-*  L. M. Zhou, Q. Li, M. S. Shang, “Chronic Disease Detection via Non-negative Latent Feature Analysis”, IEEE International Conference on Networking, Sensing and Control, 2021.
+* Qing Li, Ming Sheng Shang, “[An Efficient Annealing-Assisted Differential Evolution for Multi-parameter Adaptive Latent Factor Analysis](https://link.springer.com/article/10.1186/s40537-022-00638-8)”, Journal of Big Data, 2022.
+*  Qing Li, Di Wen Xiong, Ming Sheng Shang, “[Adjusted Stochastic Gradient Descent for Latent Factor Analysis](https://www.sciencedirect.com/science/article/pii/S0020025521012871)”, Information Sciences, 588, pp. 196-213, 2022.
+*  Qing Li, Ming Sheng Shang, “[BALFA: A Brain Storm Optimization-based Adaptive Latent Factor Analysis Model](https://www.sciencedirect.com/science/article/abs/pii/S0020025521008653)”, Information Sciences, 578, pp. 913-929, 2021.
+*  Qing Li, Ming Sheng Shang, “[A Compressed Sensing and Porous 9-7 Wavelet Transform-based Image Fusion Algorithm](https://ieeexplore.ieee.org/document/9283284/),” 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Toronto, ON, 2020, pp. 4185-4191.
+*  Le Ming Zhou, Qing Li, Ming Sheng Shang, “Chronic Disease Detection via Non-negative Latent Feature Analysis”, IEEE International Conference on Networking, Sensing and Control, 2021.
 
 Patents
 ======
@@ -27,27 +27,21 @@ Patents
 Activities
 ======
 2017/07/14--2017/08/16 Chengdu Institute of Computer Application, Chinese Academy of Sciences
-<BR/>&emsp;Intelligent Computing and Big Data Conference of Chengdu Information Technology of Chinese Academy of Sciences
-
-2017/10/13--2017/10/15 Nanjing, China
-<BR/>&emsp;The 16th National Conference on Computer Linguistics（CCL2017）
-
-2017/11/14--2017/11/16 Chengdu, China
-<BR/>&emsp;2017 Annual Conference of Sichuan Computer Society
-
-2018/05/23--2018/05/25 Harbin, China
-<BR/>&emsp;The 9th China Satellite Navigation Academic Annual Conference
-
-2018/07/06--2018/07/09 Chengdu, China
-<BR/>&emsp;The 10th International Conference on Communication Software and Networks（Excellent Oral Presentation in ICCSN 2018）
-
-2020/10/11--2020/10/14 Canada, Toronto（Remotely）
-<BR/>&emsp;IEEE SMC 2020 International Conference（Oral Presentation）
+<BR/>&emsp;&emsp;Intelligent Computing and Big Data Conference of Chengdu Information Technology of Chinese Academy of Sciences
+<BR/>2017/10/13--2017/10/15 Nanjing, China
+<BR/>&emsp;&emsp;The 16th National Conference on Computer Linguistics（CCL2017）
+<BR/>2017/11/14--2017/11/16 Chengdu, China
+<BR/>&emsp;&emsp;2017 Annual Conference of Sichuan Computer Society
+<BR/>2018/05/23--2018/05/25 Harbin, China
+<BR/>&emsp;&emsp;The 9th China Satellite Navigation Academic Annual Conference
+<BR/>2018/07/06--2018/07/09 Chengdu, China
+<BR/>&emsp;&emsp;The 10th International Conference on Communication Software and Networks（Excellent Oral Presentation in ICCSN 2018）
+<BR/>2020/10/11--2020/10/14 Canada, Toronto（Remotely）
+<BR/>&emsp;&emsp;IEEE SMC 2020 International Conference（Oral Presentation）
       
 Awards and Honors
 ======
 2017/09--2019/06
-<BR/>&emsp;National Scholarship; Excellent oral presentation in ICCSN 2018; Third Prize of the 14th China Postgraduate Mathematical Modeling Contest of "Huawei Cup"
-
-2019/09—To Date
-<BR/>&emsp;First-Class Scholarship in 2019-2023; Second Prize of the “CVPR Robust Classification Challenge 2022”
+<BR/>&emsp;&emsp;National Scholarship; Excellent oral presentation in ICCSN 2018; Third Prize of the 14th China Postgraduate Mathematical Modeling Contest of "Huawei Cup"
+<BR/>2019/09—To Date
+<BR/>&emsp;&emsp;First-Class Scholarship in 2019-2023; Second Prize of the “CVPR Robust Classification Challenge 2022”
