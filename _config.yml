@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Site Title"
+title                    : "Qing's site"
 title_separator          : "-"
 name                     : &name "Qing Li"
 description              : &description "personal description"
@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Postdoc at Department of Computer Science and Engineering, the Chinese University of Hong Kong"
   location         : "China"
-  employer         : "https://liyu95.com/"
+  employer         : 
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            :  "qinglichdu@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
