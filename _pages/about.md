@@ -41,7 +41,8 @@ Activities
       
 Awards and Honors
 ======
-<BR/>2017/09--2019/06
+2017/09--2019/06
 * National Scholarship; Excellent oral presentation in ICCSN 2018; Third Prize of the 14th China Postgraduate Mathematical Modeling Contest of "Huawei Cup"<BR/>
+
 2019/09—To Date
 * First-Class Scholarship in 2019-2023; Second Prize of the “CVPR Robust Classification Challenge 2022”
