@@ -1,4 +1,4 @@
----
+![image](https://github.com/qingli7/qingli7.github.io/assets/22051049/1f4df9bc-7328-43b3-878a-9287c1255dbb)---
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -48,5 +48,5 @@ Awards and Honors
 <br/> Excellent speaker of the 3rd Graduate Academic Forum of Chengdu Branch, Chinese Academy of Sciences
 * 2019/09—2023/06
 <br/> Second Prize of the “CVPR Robust Classification Challenge 2022”
-<br/> 2019, 2020, 2021, 2022, and 2023 First-Class Scholarship at the Chongqing University of Posts and Telecommunications 
+<br/> 2019, 2020(rank 1), 2021, 2022, and 2023 First-Class Scholarship at the Chongqing University of Posts and Telecommunications 
 
