@@ -48,5 +48,5 @@ Awards and Honors
 <br/> Excellent speaker of the 3rd Graduate Academic Forum of Chengdu Branch, Chinese Academy of Sciences
 * 2019/09—2023/06
 <br/> Second Prize of the “CVPR Robust Classification Challenge 2022”
-<br/> First-Class Scholarship at the Chongqing University of Posts and Telecommunications 
+<br/> 2019-2023 First-Class Scholarship at the Chongqing University of Posts and Telecommunications 
 
