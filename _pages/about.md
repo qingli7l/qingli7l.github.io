@@ -27,22 +27,22 @@ Patents
 Activities
 ======
 Conferences
-<br />2017/07/14--2017/08/16 Chengdu Institute of Computer Application, Chinese Academy of Sciences
+->2017/07/14--2017/08/16 Chengdu Institute of Computer Application, Chinese Academy of Sciences
 * Intelligent Computing and Big Data Conference of Chengdu Information Technology of Chinese Academy of Sciences
-<br />2017/10/13--2017/10/15 Nanjing, China
+->2017/10/13--2017/10/15 Nanjing, China
 *  The 16th National Conference on Computer Linguistics（CCL2017）
-<br />2017/11/14--2017/11/16 Chengdu, China
+->2017/11/14--2017/11/16 Chengdu, China
 *  2017 Annual Conference of Sichuan Computer Society
-<br />2018/05/23--2018/05/25 Harbin, China
+->2018/05/23--2018/05/25 Harbin, China
 *  The 9th China Satellite Navigation Academic Annual Conference
-<br />2018/07/06--2018/07/09 Chengdu, China
+->2018/07/06--2018/07/09 Chengdu, China
 *  The 10th International Conference on Communication Software and Networks（Excellent Oral Presentation in ICCSN 2018）
-<br />2020/10/11--2020/10/14 Canada, Toronto（Remotely）
+->2020/10/11--2020/10/14 Canada, Toronto（Remotely）
 * IEEE SMC 2020 International Conference（Oral Presentation）
       
 Awards and Honors
 ======
 2017/09--2019/06
 * National Scholarship; Excellent oral presentation in ICCSN 2018; Third Prize of the 14th China Postgraduate Mathematical Modeling Contest of "Huawei Cup"
-<br />2019/09—To Date
+->2019/09—To Date
 * First-Class Scholarship in 2019-2023; Second Prize of the “CVPR Robust Classification Challenge 2022”
