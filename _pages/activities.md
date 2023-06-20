@@ -16,6 +16,6 @@ author_profile: true
   * 2018/05/23--2018/05/25 Harbin, China
     * The 9th China Satellite Navigation Academic Annual Conference
   * 2018/07/06--2018/07/09 Chengdu, China
-    * The 10th International Conference on Communication Software and Networks（Excellent Oral Presentation in ICCSN 2018）
+    * The 10th International Conference on Communication Software and Networks（__Excellent Oral Presentation in ICCSN 2018__）
   * 2020/10/11--2020/10/14 Canada, Toronto（Remotely）
-    * IEEE SMC 2020 International Conference（Oral Presentation）
+    * IEEE SMC 2020 International Conference（__Oral Presentation__）
