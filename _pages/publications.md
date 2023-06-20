@@ -7,11 +7,11 @@ author_profile: true
 
 
 * Papers (2019/09 ~ 2023/06) 
-    <BR/>&emsp;[1]	Qing Li, Di Wen Xiong, Ming Sheng Shang, “[Adjusted Stochastic Gradient Descent for Latent Factor Analysis](https://www.sciencedirect.com/science/article/pii/S0020025521012871)”, Information Sciences, 588, pp. 196-213, 2022. ( IF=8.233, SCI 1, JCR 1 )
-    <BR/>&emsp;[2]	Qing Li, Ming Sheng Shang, “[An Efficient Annealing-Assisted Differential Evolution for Multi-parameter Adaptive Latent Factor Analysis](https://link.springer.com/article/10.1186/s40537-022-00638-8)”, Journal of Big Data, 2022. ( IF=10.835, SCI 2, JCR 1 )
-    <BR/>&emsp;[3]	Qing Li, Ming Sheng Shang, “[BALFA: A Brain Storm Optimization-based Adaptive Latent Factor Analysis Model](https://www.sciencedirect.com/science/article/abs/pii/S0020025521008653)”, Information Sciences, 578, pp. 913-929, 2021. ( IF=8.233, SCI 1, JCR 1 )
-    <BR/>&emsp;[4]	Qing Li, Ming Sheng Shang, “[A Compressed Sensing and Porous 9-7 Wavelet Transform-based Image Fusion Algorithm](https://ieeexplore.ieee.org/document/9283284/),” 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Toronto, ON, 2020, pp. 4185-4191. (CCF C)
-    <BR/>&emsp;[5]	Le Ming Zhou, Qing Li, Ming Sheng Shang, “Chronic Disease Detection via Non-negative Latent Feature Analysis”, IEEE International Conference on Networking, Sensing and Control, 2021. (IEEE)
+    <BR/>&emsp;[1]	__Qing Li__, Di Wen Xiong, Ming Sheng Shang, “[Adjusted Stochastic Gradient Descent for Latent Factor Analysis](https://www.sciencedirect.com/science/article/pii/S0020025521012871)”, Information Sciences, 588, pp. 196-213, 2022. ( IF=8.233, SCI 1, JCR 1 )
+    <BR/>&emsp;[2]	__Qing Li__, Ming Sheng Shang, “[An Efficient Annealing-Assisted Differential Evolution for Multi-parameter Adaptive Latent Factor Analysis](https://link.springer.com/article/10.1186/s40537-022-00638-8)”, Journal of Big Data, 2022. ( IF=10.835, SCI 2, JCR 1 )
+    <BR/>&emsp;[3]	__Qing Li__, Ming Sheng Shang, “[BALFA: A Brain Storm Optimization-based Adaptive Latent Factor Analysis Model](https://www.sciencedirect.com/science/article/abs/pii/S0020025521008653)”, Information Sciences, 578, pp. 913-929, 2021. ( IF=8.233, SCI 1, JCR 1 )
+    <BR/>&emsp;[4]	__Qing Li__, Ming Sheng Shang, “[A Compressed Sensing and Porous 9-7 Wavelet Transform-based Image Fusion Algorithm](https://ieeexplore.ieee.org/document/9283284/),” 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Toronto, ON, 2020, pp. 4185-4191. (CCF C)
+    <BR/>&emsp;[5]	Le Ming Zhou, __Qing Li__, Ming Sheng Shang, “Chronic Disease Detection via Non-negative Latent Feature Analysis”, IEEE International Conference on Networking, Sensing and Control, 2021. (IEEE)
 * Papers (2016/09 ~ 2019/06) 
-    <BR/>&emsp;[6]  Qing Li, Lige Zhang, Xiaolin Qin, etc., "NSA-CSIPSO: satellite navigation signal acquisition method based on compressed sensing using improved particle swarm optimization", 2018 10th International Conference on Communication Software and Networks (ICCSN), 2018. (IEEE)
-    <BR/>&emsp;[7]  Lige Zhang, Xiaolin Qin, Qing Li, etc., "Single bitmap block truncation coding of color images using hill climbing algorithm", arXiv preprint arXiv:1807.04960, 2018.
+    <BR/>&emsp;[6]  __Qing Li__, Lige Zhang, Xiaolin Qin, etc., "NSA-CSIPSO: satellite navigation signal acquisition method based on compressed sensing using improved particle swarm optimization", 2018 10th International Conference on Communication Software and Networks (ICCSN), 2018. (IEEE)
+    <BR/>&emsp;[7]  Lige Zhang, Xiaolin Qin, __Qing Li__, etc., "Single bitmap block truncation coding of color images using hill climbing algorithm", arXiv preprint arXiv:1807.04960, 2018.
