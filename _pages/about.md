@@ -12,7 +12,7 @@ I am a postdoc of Prof. [Yu Li](https://liyu95.com/) at the Department of Comput
 
 
 
-Recent News
+Publications
 ======
 *  Qing Li, Di Wen Xiong, Ming Sheng Shang, “[Adjusted Stochastic Gradient Descent for Latent Factor Analysis](https://www.sciencedirect.com/science/article/pii/S0020025521012871)”, Information Sciences, 588, pp. 196-213, 2022.
 * Qing Li, Ming Sheng Shang, “[An Efficient Annealing-Assisted Differential Evolution for Multi-parameter Adaptive Latent Factor Analysis](https://link.springer.com/article/10.1186/s40537-022-00638-8)”, Journal of Big Data, 2022.
