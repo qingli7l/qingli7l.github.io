@@ -41,16 +41,12 @@ Activities
       
 Awards and Honors
 ======
-* 2017/12
+* 2016/09-2019/06
 <br/> Third Prize of the 14th China Postgraduate Mathematical Modeling Contest of "Huawei Cup"
-* 2018/10
 <br/> Excellent speaker of the 3rd Graduate Academic Forum of Chengdu Branch, Chinese Academy of Sciences
-* 2018/07
 <br/> Excellent oral presentation in ICCSN 2018
-* 2018/11
 <br/> National Scholarship
-* 2022/08
-<br/> Second Prize of the “CVPR Robust Classification Challenge 2022”
 * 2019/09—2023/06
+<br/> Second Prize of the “CVPR Robust Classification Challenge 2022”
 <br/> First-Class Scholarship at the Chongqing University of Posts and Telecommunications 
 
