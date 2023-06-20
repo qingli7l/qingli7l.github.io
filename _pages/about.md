@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,22 +8,37 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Qing Li received the Ph.D. degree in computer science from the Chongqing University of Posts and Telecommunications and under a joint project in the Chongqing Institute of Green and Intelligent Technology, Chinese Academy of Sciences. To further study deep learning and image processing, she had a one-year [internship](http://www.nlpr.ia.ac.cn/pal/People/LiQing.html) in the National Laboratory of Pattern Recognition of the Institute of Automation, Chinese Academy of Sciences. Her current research interests include big data mining and analysis, evolutionary computing, deep learning, in which she has published papers in SCI Information Sciences, Journal of Big Data, CCF SMC, and IEEE ICCSN, etc. She obtained national invention patent authorizations, participated in several national projects, and served as a reviewer for many important journals and conferences such as IEEE/CAA Neurocomputing, JAS, CCF SMC, etc.  
 
-A data-driven personal website
+
+Education
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* Doctor of Engineering (2019/09 ~ 2023/06)
+  * University of Chinese Academy of Sciences and Chongqing University of Posts and Telecommunications
+  * Joint Training in Chongqing Institute of Green and Intelligent Technology, Chinese Academy of Sciences
+    * Computer Science and Technology
+    * Pattern Recognition and Image Processing
+* Master of Engineering (2016/09 ~ 2019/06)
+  * University of Chinese Academy of Sciences
+    * Computer Application Technology
+    * Pattern Recognition and Machine Learning
+* Bachelor of Engineering (2012/09 ~ 2016/06)
+  * Sichuan Normal University
+    * Digital Media Technology
+    * Virtual Reality
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Q. Li, M. S. Shang, “[An Efficient Annealing-Assisted Differential Evolution for Multi-parameter Adaptive Latent Factor Analysis](https://link.springer.com/article/10.1186/s40537-022-00638-8)”, Journal of Big Data, 2022.
+2. Q. Li, D. W. Xiong, M. S. Shang, “[Adjusted Stochastic Gradient Descent for Latent Factor Analysis](https://www.sciencedirect.com/science/article/pii/S0020025521012871)”, Information Sciences, 588, pp. 196-213, 2022.
+3. Q. Li, M. S. Shang, “[BALFA: A Brain Storm Optimization-based Adaptive Latent Factor Analysis Model](https://www.sciencedirect.com/science/article/abs/pii/S0020025521008653)”, Information Sciences, 578, pp. 913-929, 2021.
+4. Q. Li and M. Shang, “[A Compressed Sensing and Porous 9-7 Wavelet Transform-based Image Fusion Algorithm](https://ieeexplore.ieee.org/document/9283284/),” 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Toronto, ON, 2020, pp. 4185-4191, doi: 10.1109/SMC42975.2020.9283284.
+5. L. M. Zhou, Q. Li, M. S. Shang, “Chronic Disease Detection via Non-negative Latent Feature Analysis”, IEEE International Conference on Networking, Sensing and Control, 2021.
+
+Patents
+======
+1. Nengfeng Zhang, Qing Li, Xin Luo, “An Alzheimer's disease detection device based on support vector machines.” CN112155550A, 2021.
 
 Site-wide configuration
 ------
