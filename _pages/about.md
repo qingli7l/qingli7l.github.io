@@ -11,21 +11,6 @@ redirect_from:
 Qing Li received the Ph.D. degree in computer science from the Chongqing University of Posts and Telecommunications and under a joint project in the Chongqing Institute of Green and Intelligent Technology, Chinese Academy of Sciences. To further study deep learning and image processing, she had a one-year [internship](http://www.nlpr.ia.ac.cn/pal/People/LiQing.html) in the National Laboratory of Pattern Recognition of the Institute of Automation, Chinese Academy of Sciences. Her current research interests include big data mining and analysis, evolutionary computing, deep learning, in which she has published papers in SCI Information Sciences, Journal of Big Data, CCF SMC, and IEEE ICCSN, etc. She obtained national invention patent authorizations, participated in several national projects, and served as a reviewer for many important journals and conferences such as IEEE/CAA Neurocomputing, JAS, CCF SMC, etc.  
 
 
-Education
-======
-* Doctor of Engineering (2019/09 ~ 2023/06)
-  * University of Chinese Academy of Sciences and Chongqing University of Posts and Telecommunications
-  * Joint Training in Chongqing Institute of Green and Intelligent Technology, Chinese Academy of Sciences
-    * Computer Science and Technology
-    * Pattern Recognition and Image Processing
-* Master of Engineering (2016/09 ~ 2019/06)
-  * University of Chinese Academy of Sciences
-    * Computer Application Technology
-    * Pattern Recognition and Machine Learning
-* Bachelor of Engineering (2012/09 ~ 2016/06)
-  * Sichuan Normal University
-    * Digital Media Technology
-    * Virtual Reality
 
 
 Publications
