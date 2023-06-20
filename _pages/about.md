@@ -1,6 +1,6 @@
-![image](https://github.com/qingli7/qingli7.github.io/assets/22051049/1f4df9bc-7328-43b3-878a-9287c1255dbb)---
+---
 permalink: /
-title: "About me"
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
