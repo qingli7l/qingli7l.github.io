@@ -26,8 +26,8 @@ Patents
 
 Activities
 ======
-* Intelligent Computing and Big Data Conference of Chengdu Information Technology of Chinese Academy of Sciences
-<BR/>2017/07/14--2017/08/16 Chengdu Institute of Computer Application, Chinese Academy of Sciences
+* Intelligent Computing and Big Data Conference of Chengdu Information Technology of Chinese Academy of Sciences<br>
+2017/07/14--2017/08/16 Chengdu Institute of Computer Application, Chinese Academy of Sciences
 * The 16th National Conference on Computer Linguistics（CCL2017）
 2017/10/13--2017/10/15 Nanjing, China
 * 2017 Annual Conference of Sichuan Computer Society
