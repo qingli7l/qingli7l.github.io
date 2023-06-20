@@ -5,7 +5,7 @@ permalink: /activities/
 author_profile: true
 ---
 
-# Activities
+
 * Conferences
   * 2017/07/14--2017/08/16 Chengdu Institute of Computer Application, Chinese Academy of Sciences
     * Intelligent Computing and Big Data Conference of Chengdu Information Technology of Chinese Academy of Sciences
