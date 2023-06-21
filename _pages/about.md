@@ -18,7 +18,7 @@ Publications
 * __Qing Li__, Guansong Pang, Mingsheng Shang, “An Efficient Annealing-Assisted Differential Evolution for Multi-parameter Adaptive Latent Factor Analysis”, Journal of Big Data, 9(1):95, 2022. [[Full text](https://link.springer.com/article/10.1186/s40537-022-00638-8)]
 *  __Qing Li__, Mingsheng Shang, “BALFA: A Brain Storm Optimization-based Adaptive Latent Factor Analysis Model”, Information Sciences, 578:913-929, 2021.[[Full text](https://drive.google.com/file/d/12v325BN4iRt6SmZYdTBIxW2btpIwIKBG/view)]
 *  Leming Zhou, __Qing Li__, Mingsheng Shang, “Chronic Disease Detection via Non-negative Latent Feature Analysis”, IEEE International Conference on Networking, Sensing and Control, 1:1-6, 2021.[[Full text](https://ieeexplore.ieee.org/abstract/document/9702154)]
-*  __Qing Li__, M Shang, “A Compressed Sensing and Porous 9-7 Wavelet Transform-based Image Fusion Algorithm”, 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 4185-4191, 2020.[[Full text](https://ieeexplore.ieee.org/document/9283284/)]
+*  __Qing Li__, Mingsheng Shang, “A Compressed Sensing and Porous 9-7 Wavelet Transform-based Image Fusion Algorithm”, 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 4185-4191, 2020.[[Full text](https://ieeexplore.ieee.org/document/9283284/)]
 *  __Qing Li__, Lige Zhang, Xiaolin Qin, etc., "NSA-CSIPSO: satellite navigation signal acquisition method based on compressed sensing using improved particle swarm optimization", 2018 10th International Conference on Communication Software and Networks (ICCSN), 290-295, 2018.[[Full text](https://ieeexplore.ieee.org/abstract/document/8488308)] 
 
 Patents
