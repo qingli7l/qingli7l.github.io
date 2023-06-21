@@ -19,7 +19,7 @@ Publications
 *  __Q Li__, M Shang, “BALFA: A Brain Storm Optimization-based Adaptive Latent Factor Analysis Model”, Information Sciences, 578, pp. 913-929, 2021.[[Full text](https://drive.google.com/file/d/12v325BN4iRt6SmZYdTBIxW2btpIwIKBG/view)]
 *  L Zhou, __Q Li__, M Shang, “Chronic Disease Detection via Non-negative Latent Feature Analysis”, IEEE International Conference on Networking, Sensing and Control, 2021.[[Full text](https://ieeexplore.ieee.org/abstract/document/9702154)]
 *  __Q Li__, M Shang, “A Compressed Sensing and Porous 9-7 Wavelet Transform-based Image Fusion Algorithm”, 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Toronto, ON, 2020, pp. 4185-4191.[[Full text](https://ieeexplore.ieee.org/document/9283284/)]
-*  __Q Li__, Lige Zhang, Xiaolin Qin, etc., "NSA-CSIPSO: satellite navigation signal acquisition method based on compressed sensing using improved particle swarm optimization", 2018 10th International Conference on Communication Software and Networks (ICCSN), 2018.[[Full text](https://ieeexplore.ieee.org/abstract/document/8488308)] 
+*  __Q Li__, L Zhang, X Qin, etc., "NSA-CSIPSO: satellite navigation signal acquisition method based on compressed sensing using improved particle swarm optimization", 2018 10th International Conference on Communication Software and Networks (ICCSN), 2018.[[Full text](https://ieeexplore.ieee.org/abstract/document/8488308)] 
 
 Patents
 ======
