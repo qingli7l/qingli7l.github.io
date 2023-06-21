@@ -9,7 +9,7 @@
 locale                   : "China"
 title                    : "        Qing's site"
 title_separator          : "-"
-name                     : &name "Qing Li (李卿)"
+name                     : &name "Qing Li"
 description              : &description "personal description"
 url                      : https://qingli7.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qing Li"
+  name             : "Qing Li (李卿)"
   avatar           : "profile.png"
   bio              : "Postdoc at the Department of Computer Science and Engineering, Chinese University of Hong Kong"
   location         : "China"
