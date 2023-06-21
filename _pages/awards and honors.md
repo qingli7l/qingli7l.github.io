@@ -7,7 +7,7 @@ author_profile: true
 
 * 2016/09-2019/06
   * National Scholarship
-  * Excellent oral presentation in ICCSN 2018
+  * Excellent Oral Presentation in ICCSN 2018
   * Third Prize of the 14th China Postgraduate Mathematical Modeling Contest of "Huawei Cup"
   * Excellent speaker of the 3rd Graduate Academic Forum of Chengdu Branch, Chinese Academy of Sciences
 * 2019/09—2023/06
