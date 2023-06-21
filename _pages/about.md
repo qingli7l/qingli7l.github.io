@@ -18,7 +18,7 @@ Publications
 * __Q Li__, M Shang, “An Efficient Annealing-Assisted Differential Evolution for Multi-parameter Adaptive Latent Factor Analysis”, Journal of Big Data, 2022.[[Full text](https://link.springer.com/article/10.1186/s40537-022-00638-8)]
 *  __Q Li__, M Shang, “BALFA: A Brain Storm Optimization-based Adaptive Latent Factor Analysis Model”, Information Sciences, 578, pp. 913-929, 2021.[[Full text](https://drive.google.com/file/d/12v325BN4iRt6SmZYdTBIxW2btpIwIKBG/view)]
 *  __Q Li__, M Shang, “A Compressed Sensing and Porous 9-7 Wavelet Transform-based Image Fusion Algorithm”, 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Toronto, ON, 2020, pp. 4185-4191.[[Full text](https://ieeexplore.ieee.org/document/9283284/)]
-*  L Zhou, __Q Li__, M Shang, “Chronic Disease Detection via Non-negative Latent Feature Analysis”, IEEE International Conference on Networking, Sensing and Control, 2021.
+*  L Zhou, __Q Li__, M Shang, “Chronic Disease Detection via Non-negative Latent Feature Analysis”, IEEE International Conference on Networking, Sensing and Control, 2021.[[Full text](https://ieeexplore.ieee.org/abstract/document/9702154)]
 
 Patents
 ======
