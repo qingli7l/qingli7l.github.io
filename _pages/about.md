@@ -10,6 +10,10 @@ redirect_from:
 
 I am a postdoc of Prof. [Yu Li](https://liyu95.com/) at the Department of Computer Science and Engineering, Chinese University of Hong Kong. Before that, I am fortunate to have a one-year internship with Prof. [Chenglin Liu](https://people.ucas.ac.cn/~liuchenglin) at the National Laboratory of Pattern Recognition of the Institute of Automation, Chinese Academy of Sciences. I received my Ph.D. degree in computer science from the Chongqing Institute of Green and Intelligent Technology, Chinese Academy of Sciences under a joint project at the Chongqing University of Posts and Telecommunications in 2023. And I obtained my master’s degree and bachelor’s degree from the University of Chinese Academy of Sciences in 2019 and Sichuan Normal University in 2016 respectively. My research interests include AI for science (healthcare and bioinformatics) and big data analysis (eg. recommender systems, evolutionary computation). I am open to discussion or collaboration. Feel free to contact me if you are interested.
 
+Preprints
+======
+*  __Qing Li__, Zhihang Hu, Yixuan Wang, Lei Li, Yimin Fan, Irwin King, Le Song, Yu Li, "Progress and Opportunities of Foundation Models in Bioinformatics", arXiv preprint arXiv:2402.04286, 2024.[[Full text](https://arxiv.org/pdf/2402.04286)]
+*   __Qing Li__, Lei Li, Yu Li, "Developing ChatGPT for Biology and Medicine: A Complete Review of Biomedical Question Answering", aarXiv preprint arXiv:2401.07510, 2024.[[Full text](https://arxiv.org/pdf/2401.07510)]
 
 Publications
 ======
