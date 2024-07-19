@@ -12,8 +12,8 @@ I am a postdoc of Prof. [Yu Li](https://liyu95.com/) at the Department of Comput
 
 Preprints
 ======
-*  __Qing Li__, Zhihang Hu, Yixuan Wang, Lei Li, Yimin Fan, Irwin King, Le Song, and Yu Li<sup>*</sup>, "Progress and Opportunities of Foundation Models in Bioinformatics", arXiv preprint arXiv:2402.04286, 2024.[[Full text](https://arxiv.org/pdf/2402.04286)]
-*   __Qing Li__, Lei Li, and Yu Li<sup>*</sup>, "Developing ChatGPT for Biology and Medicine: A Complete Review of Biomedical Question Answering", aarXiv preprint arXiv:2401.07510, 2024.[[Full text](https://arxiv.org/pdf/2401.07510)]
+*  __Qing Li__, Zhihang Hu, Yixuan Wang, Lei Li, Yimin Fan, Irwin King, Le Song, and Yu Li<sup>#</sup>, "Progress and Opportunities of Foundation Models in Bioinformatics", arXiv preprint arXiv:2402.04286, 2024.[[Full text](https://arxiv.org/pdf/2402.04286)]
+*   __Qing Li__, Lei Li, and Yu Li<sup>#</sup>, "Developing ChatGPT for Biology and Medicine: A Complete Review of Biomedical Question Answering", aarXiv preprint arXiv:2401.07510, 2024.[[Full text](https://arxiv.org/pdf/2401.07510)]
 
 Selected Publications
 ======
