@@ -7,12 +7,14 @@ author_profile: true
 
 
 * Conferences
-  * 2020/10/11--2020/10/14 Canada, Toronto（Remotely）
+  * 2020/10/11--2020/10/14 Hainan, China
+    * IEEE ICCIP 2023 International Conference（__Oral Presentation__）
+  * 2020/10/11--2020/10/14 Canada, Toronto
     * IEEE SMC 2020 International Conference（__Oral Presentation__）
   * 2018/07/06--2018/07/09 Chengdu, China
     * The 10th International Conference on Communication Software and Networks（__Excellent Oral Presentation__）
   * 2018/05/23--2018/05/25 Harbin, China
-    * The 9th China Satellite Navigation Academic Annual Conference
+    * The 9th China Satellite Navigation Academic Annual Conference （__Oral Presentation__）
   * 2017/11/14--2017/11/16 Chengdu, China
     * 2017 Annual Conference of Sichuan Computer Society
   * 2017/10/13--2017/10/15 Nanjing, China
