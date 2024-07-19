@@ -7,7 +7,7 @@ author_profile: true
 
 
 * Conferences
-  * 2020/10/11--2020/10/14 Hainan, China
+  * 2023/12/14--2023/12/16 Hainan, China
     * IEEE ICCIP 2023 International Conference（__Oral Presentation__）
   * 2020/10/11--2020/10/14 Canada, Toronto
     * IEEE SMC 2020 International Conference（__Oral Presentation__）
