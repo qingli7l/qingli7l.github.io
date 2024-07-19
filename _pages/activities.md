@@ -12,7 +12,7 @@ author_profile: true
   * 2020/10/11--2020/10/14 Canada, Toronto
     * IEEE SMC 2020 International Conference（__Oral Presentation__）
   * 2018/07/06--2018/07/09 Chengdu, China
-    * The 10th International Conference on Communication Software and Networks（__Excellent Oral Presentation__）
+    * IEEE ICCSN 2018 International Conference（__Excellent Oral Presentation__）
   * 2018/05/23--2018/05/25 Harbin, China
     * The 9th China Satellite Navigation Academic Annual Conference （__Oral Presentation__）
   * 2017/11/14--2017/11/16 Chengdu, China
