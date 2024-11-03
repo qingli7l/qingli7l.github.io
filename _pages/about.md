@@ -15,7 +15,7 @@ Preprints
 *  __Qing Li__, and Mingsheng Shang, “Adversarial Swarm Optimizer for Adaptive Latent Factor Analysis,” Engineering Applications of Artificial Intelligence.
 * Xin Lan, Xiaolin Qin, __Qing Li#__, and Yu Li, “Omnidirectional Multi-scale Network for Oriented Object Detection,” Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
 * Yu Li, Tianyi Wang, Xu Gu, __Qing Li__, and Xiaolin Qing*, “CFBERT: Contrastive Learning for Sentence Embeddings with Clustering and Fine Grained Ranking Information,” 2025 IEEE International Conference on Acoustics, Speech and Signal Processing. 
-* Peiyang Wei*, Mingsheng Shang*, __Qing Li__, et al, “An Efficient Temporal Convolutional Neural Network with Evolutionary Algorithm for Radar Image Extrapolation,” IEEE Transactions on Instrumentation and Measurement, 2024.
+* Peiyang Wei, Mingsheng Shang, __Qing Li__, et al, “An Efficient Temporal Convolutional Neural Network with Evolutionary Algorithm for Radar Image Extrapolation,” IEEE Transactions on Instrumentation and Measurement, 2024.
 
 
 Selected Publications
