@@ -12,14 +12,12 @@ I am a postdoc of Prof. [Yu Li](https://liyu95.com/) at the Department of Comput
 
 Preprints
 ======
-*  __Qing Li__, and Mingsheng Shang, “Adversarial Swarm Optimizer for Adaptive Latent Factor Analysis,” Engineering Applications of Artificial Intelligence, 2024. 
+*  __Qing Li__, and Mingsheng Shang, “Adversarial Swarm Optimizer for Adaptive Latent Factor Analysis,” Engineering Applications of Artificial Intelligence, 2024.
 
+* __Qing Li__, Yixuan Wang, Yimin Fan, and Yu Li, "Alignment and Projection of scRNA-seq and Spatial Transcriptomics in Whole Transcriptome Space," International Conference on Research in Computational Molecular Biology, 2024.
 * Xin Lan, Xiaolin Qin, __Qing Li#__, and Yu Li, “Omnidirectional Multi-scale Network for Oriented Object Detection,” Proceedings of the AAAI Conference on Artificial Intelligence, 2024. 
-
 * Yu Li, Tianyi Wang, Xu Gu, __Qing Li__, and Xiaolin Qing*, “CFBERT: Contrastive Learning for Sentence Embeddings with Clustering and Fine Grained Ranking Information,” 2025 IEEE International Conference on Acoustics, Speech and Signal Processing.
-
 * Xin Lan, Lei Li, __Qing Li__, Shaolin Zhang, Yu Li, and Xiaolin Qin, "The Shape-Guided Selection and Loss for Oriented Object Detection in Aerial Images,” IEEE Transactions on Geoscience and Remote Sensing, 2024. 
-
 * Peiyang Wei, Mingsheng Shang, __Qing Li__, et al, “An Efficient Temporal Convolutional Neural Network with Evolutionary Algorithm for Radar Image Extrapolation,” IEEE Transactions on Instrumentation and Measurement, 2024. 
 
 
