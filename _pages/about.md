@@ -17,7 +17,7 @@ Preprints
 * Xin Lan, Xiaolin Qin, __Qing Li#__, and Yu Li, “Omnidirectional Multi-scale Network for Oriented Object Detection,” 2024.
 * Xin Lan, Lei Li, __Qing Li__, Shaolin Zhang, Yu Li, and Xiaolin Qin, "The Shape-Guided Selection and Loss for Oriented Object Detection in Aerial Images,” 2024. 
 * Peiyang Wei, Mingsheng Shang, __Qing Li__, et al, “An Efficient Temporal Convolutional Neural Network with Evolutionary Algorithm for Radar Image Extrapolation,” 2024.
-* Yu Li, Tianyi Wang, Xu Gu, __Qing Li__, and Xiaolin Qing*, “CFBERT: Contrastive Learning for Sentence Embeddings with Clustering and Fine Grained Ranking Information,” 2024.
+* Yu Li, Tianyi Wang, Xu Gu, __Qing Li__, and Xiaolin Qing, “CFBERT: Contrastive Learning for Sentence Embeddings with Clustering and Fine Grained Ranking Information,” 2024.
 * Yixuan Wang, Yimin Fan, Xuesong Wang, Tingyang Yu, Yongshuo Zong, Xinyuan Liu, Meitong Liu, __Qing Li__, Kin hei Lee, Khachatur Dallakyan, Junjie Huang, Gengjie Jia, Jiao Yuan, Ting-Fung Chan, Xin Gao, Irwin King, and Yu Li, "SCMBench: Benchmarking Domain-specific and Foundation Models for Single-cell Multi-omics Data Integration," 2024.
 
 
