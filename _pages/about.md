@@ -29,9 +29,9 @@ Selected Publications
 *  __Qing Li__, Zhihang Hu, Yixuan Wang, Lei Li, Yimin Fan, Irwin King, Le Song, Gengjie Jia, Sheng Wang, and Yu Li, "Progress and Opportunities of Foundation Models in Bioinformatics", Briefings in Bioinformatics, 25(6):bbae548, 2024. [[Full text](https://academic.oup.com/bib/article/25/6/bbae548/7842778)] 
 * __Qing Li__, Guansong Pang, and Mingsheng Shang, “An Efficient Annealing-Assisted Differential Evolution for Multi-parameter Adaptive Latent Factor Analysis”, Journal of Big Data, 9(1):95, 2022. [[Full text](https://link.springer.com/article/10.1186/s40537-022-00638-8)]
 *   __Qing Li__, Lei Li, and Yu Li, "Developing ChatGPT for Biology and Medicine: A Complete Review of Biomedical Question Answering", Biophysics Reports, 10(3):152-171, 2024. [[Full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11252240/pdf/br-10-3-152.pdf)]
+*  __Qing Li__ and Mingsheng Shang, “A Compressed Sensing and Porous 9-7 Wavelet Transform-based Image Fusion Algorithm”, 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 4185-4191, 2020. [[Full text](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9702154)]
 *  __Qing Li__, Bingqing Du, Xiaolin Qin, Jiguang Zhang, and Shibiao Xu, "Multi-scale Global Consistency Residue Feature Enhancement based Protein Structure Analysis", In Proceedings of the 2023 9th International Conference on Communication and Information Processing, Association for Computing Machinery, New York, NY, USA, 24–30, 2024. [[Full text](https://dl.acm.org/doi/pdf/10.1145/3638884.3638889)]
 (https://drive.google.com/file/d/12v325BN4iRt6SmZYdTBIxW2btpIwIKBG/view)]
-*  __Qing Li__ and Mingsheng Shang, “A Compressed Sensing and Porous 9-7 Wavelet Transform-based Image Fusion Algorithm”, 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 4185-4191, 2020. [[Full text](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9702154)]
 
 
 Patents
