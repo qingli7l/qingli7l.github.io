@@ -15,7 +15,8 @@ Preprints
 ======
 * __Qing Li__, Yixuan Wang, Yimin Fan, and Yu Li, "Alignment and Projection of scRNA-seq and Spatial Transcriptomics in Whole Transcriptome Space," 2024.
 * __Qing Li__ and Mingsheng Shang, “Adversarial Swarm Optimizer for Adaptive Latent Factor Analysis,” 2024.
-* Tianyi Wang*, __Qing Li*__, Yu Li, and Xiaolin Qin, “Test Time Adaptation for RGB-D Multi-modal Semantic Segmentation,” 2024.
+* Tianyi Wang*, __Qing Li*__, Yu Li, and Xiaolin Qin, “Prototype Oriented Robust Cross-Modal Test-Time Adaptation with Uncertainty
+Prototype Oriented Robust Cross-Modal Test-Time Adaptation with Uncertainty Estimation,” 2024.
 * Xin Lan, Xiaolin Qin, __Qing Li#__, and Yu Li, “Omnidirectional Multi-scale Network for Oriented Object Detection,” 2024.
 * Peiyang Wei, Mingsheng Shang, __Qing Li__, et al, “An Efficient Temporal Convolutional Neural Network with Evolutionary Algorithm for Radar Image Extrapolation,” 2024.
 * Xin Lan, Lei Li, __Qing Li__, Shaolin Zhang, Yu Li, and Xiaolin Qin, "The Shape-Guided Selection and Loss for Oriented Object Detection in Aerial Images,” 2024. 
