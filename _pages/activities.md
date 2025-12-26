@@ -8,7 +8,7 @@ author_profile: true
  October 22, 2025 from 9:00 AM to 5:00 PM
 * Conferences
   * 2025/10/22 Houston, United States
-    * 6th Annual GCC Single & Spatial Cell Omics Symposium
+    * The 6th Annual GCC Single & Spatial Cell Omics Symposium
   * 2025/09/09--2025/09/10 Bethesda, United States
     * AI for Clinical Decision Support in Heart, Lung, Blood, and Sleep Disorders Workshop (NIH)
   * 2025/08/03--2025/08/05 Columbus, United States
