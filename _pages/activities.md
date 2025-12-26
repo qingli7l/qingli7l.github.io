@@ -10,7 +10,7 @@ author_profile: true
   * 2025/10/22 Houston, United States
     * 6th Annual GCC Single & Spatial Cell Omics Symposium
   * 2025/09/09--2025/09/10 Bethesda, United States
-    * AI for Clinical Decision Support in Heart, Lung, Blood, and Sleep Disorders Workshop 
+    * AI for Clinical Decision Support in Heart, Lung, Blood, and Sleep Disorders Workshop (NIH)
   * 2025/08/03--2025/08/05 Columbus, United States
     * The International Conference on Intelligent Biology and Medicine（ICIBM2025）  
   * 2023/12/14--2023/12/16 Hainan, China
