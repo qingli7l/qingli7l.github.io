@@ -5,7 +5,7 @@ permalink: /activities/
 author_profile: true
 ---
 
- October 22, 2025 from 9:00 AM to 5:00 PM
+
 * Conferences
   * 2025/10/22 Houston, United States
     * The 6th Annual GCC Single & Spatial Cell Omics Symposium
