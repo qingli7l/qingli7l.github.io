@@ -11,8 +11,10 @@ redirect_from:
 
 I am a postdoctoral fellow of Prof. [Guangyu Wang](https://guangyuwanglab.github.io/web/team.html) at Weill Cornell Medical College and the Department of CV Sciences, Houston Methodist, after a one-year postdoctoral fellowship with Prof. [Yu Li](https://liyu95.com/) at the Department of Computer Science and Engineering, Chinese University of Hong Kong. Before that, I was fortunate to have a one-year internship with Prof. [Chenglin Liu](https://people.ucas.ac.cn/~liuchenglin) at the National Laboratory of Pattern Recognition of the Institute of Automation, Chinese Academy of Sciences. I received my Ph.D. degree in computer science from the Chongqing Institute of Green and Intelligent Technology, Chinese Academy of Sciences, under a joint project at the Chongqing University of Posts and Telecommunications in 2023. And I obtained my master’s degree and bachelor’s degree from the University of Chinese Academy of Sciences in 2019 and Sichuan Normal University in 2016, respectively. My research interests include AI for science (healthcare and bioinformatics) and big data analysis (eg, recommender systems, evolutionary computation). I am open to discussion or collaboration. Feel free to contact me if you are interested.
 
+<!--
 Preprints
 ======
+
 * __Qing Li__, Yixuan Wang, Yimin Fan, and Yu Li, "Alignment and Projection of scRNA-seq and Spatial Transcriptomics in Whole Transcriptome Space," 2025.
 * __Qing Li__ and Mingsheng Shang, “Adversarial Swarm Optimizer for Adaptive Latent Factor Analysis,” 2025.
 * Tianyi Wang*, __Qing Li*__, Yu Li, and Xiaolin Qin, “Prototype Oriented Robust Cross-Modal Test-Time Adaptation with Uncertainty Estimation,” 2025.
@@ -21,7 +23,7 @@ Preprints
 * Xin Lan, Lei Li, __Qing Li__, Shaolin Zhang, Yu Li, and Xiaolin Qin, "The Shape-Guided Selection and Loss for Oriented Object Detection in Aerial Images,” 2024. 
 * Yu Li, Tianyi Wang, Xu Gu, __Qing Li__, and Xiaolin Qing, “CFBERT: Contrastive Learning for Sentence Embeddings with Clustering and Fine Grained Ranking Information,” 2024.
 * Yixuan Wang, Yimin Fan, Xuesong Wang, Tingyang Yu, Yongshuo Zong, Xinyuan Liu, Meitong Liu, __Qing Li__, Kin Hei Lee, Khachatur Dallakyan, Junjie Huang, Gengjie Jia, Jiao Yuan, Ting-Fung Chan, Xin Gao, Irwin King, and Yu Li, "SCMBench: Benchmarking Domain-specific and Foundation Models for Single-cell Multi-omics Data Integration," 2024.
-
+-->
 
 Selected Publications
 ======
