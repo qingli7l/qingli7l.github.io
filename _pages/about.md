@@ -33,7 +33,7 @@ Selected Publications
 *  __Qing Li__ and Mingsheng Shang, “BALFA: A Brain Storm Optimization-based Adaptive Latent Factor Analysis Model”, Information Sciences, 578:913-929, 2021. [[Full text](https://www.sciencedirect.com/science/article/abs/pii/S0020025521008653)]
 * __Qing Li__, Guansong Pang, and Mingsheng Shang, “An Efficient Annealing-Assisted Differential Evolution for Multi-parameter Adaptive Latent Factor Analysis”, Journal of Big Data, 9(1):95, 2022. [[Full text](https://link.springer.com/article/10.1186/s40537-022-00638-8)]
 *  __Qing Li__ and Mingsheng Shang, “A Compressed Sensing and Porous 9-7 Wavelet Transform-based Image Fusion Algorithm”, 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 4185-4191, 2020. [[Full text](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9702154)]
-*  __Qing Li__, Bingqing Du, Xiaolin Qin, Jiguang Zhang, and Shibiao Xu, "Multi-scale Global Consistency Residue Feature Enhancement based Protein Structure Analysis", In Proceedings of the 2023 9th International Conference on Communication and Information Processing, Association for Computing Machinery, New York, NY, USA, 24–30, 2024. [[Full text](https://dl.acm.org/doi/pdf/10.1145/3638884.3638889)]
+
 
 
 Patents
