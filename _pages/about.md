@@ -29,7 +29,7 @@ Selected Publications
 ======
 
 * <span style="color: #32629A;">Progress and Opportunities of Foundation Models in Bioinformatics.</span>  
-  __Qing Li__, Zhihang Hu, Yixuan Wang, Lei Li, Yimin Fan, Irwin King, Le Song, Gengjie Jia, Sheng Wang, Yu Li. *Briefings in Bioinformatics*, 25(6):bbae548, 2024. [Full text](https://academic.oup.com/bib/article/25/6/bbae548/7842778)
+  __Qing Li__, Zhihang Hu, Yixuan Wang, Lei Li, Yimin Fan, Irwin King, Gengjie Jia, Sheng Wang, Le Song, Yu Li. *Briefings in Bioinformatics*, 25(6):bbae548, 2024. [Full text](https://academic.oup.com/bib/article/25/6/bbae548/7842778)
 
 * <span style="color: #32629A;">Developing ChatGPT for Biology and Medicine: A Complete Review of Biomedical Question Answering.</span>  
   __Qing Li__, Lei Li, Yu Li. *Biophysics Reports*, 10(3):152-171, 2024. [Full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11252240/pdf/br-10-3-152.pdf)
