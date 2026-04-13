@@ -32,6 +32,3 @@ author_profile: true
 
 * <span style="color: #32629A;">NSA-CSIPSO: satellite navigation signal acquisition method based on compressed sensing using improved particle swarm optimization.</span>  
   __Qing Li__, Lige Zhang, Xiaolin Qin, Weiyi Chen. *2018 10th International Conference on Communication Software and Networks (ICCSN)*, 290-295, 2018. [Full text](https://ieeexplore.ieee.org/abstract/document/8488308)
-
-* <span style="color: #32629A;">Single bitmap block truncation coding of color images using hill climbing algorithm.</span>  
-  Lige Zhang, Xiaolin Qin, __Qing Li__, Haoyue Peng, Yu Hou. *arXiv preprint arXiv:1807.04960*, 2018. [Full text](https://arxiv.org/pdf/1807.04960.pdf)
