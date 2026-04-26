@@ -1,9 +1,13 @@
+<!-- 
 ---
 layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+--> 
+
 ## Selected publications
 
 * **Progress and Opportunities of Foundation Models in Bioinformatics.**
