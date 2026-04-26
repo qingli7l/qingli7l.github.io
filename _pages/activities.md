@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-__Conferences__
+## Conferences
  * 2026/01/01--2026/01/05 Honolulu, United States
    * Frontiers in Cardiovascular Research 2026 Program
  * 2025/10/22 Houston, United States
@@ -30,7 +30,7 @@ __Conferences__
  * 2017/07/14--2017/08/16 Chengdu Institute of Computer Application, Chinese Academy of Sciences
    * Intelligent Computing and Big Data Conference of Chengdu Information Technology of Chinese Academy of Sciences
 
-__Reviewer__
+## Reviewer
 * Nature Computational Science
 * Nature Communications
 * Nature Protocols
