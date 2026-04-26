@@ -1,13 +1,13 @@
-<!--
+
 ---
 layout: archive
-title: "Awards and Honors"
+title: "Awards"
 permalink: /awards and honors/
 author_profile: true
 ---
--->
 
-## Awards
+
+
  * First-Class Scholarship, 2019-2023
  * Second Prize of the “CVPR Robust Classification Challenge 2022”
  * National Scholarship, Chinese Academy of Sciences, 2019
