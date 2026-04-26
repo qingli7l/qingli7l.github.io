@@ -43,8 +43,6 @@ Selected Publications
 * **BALFA: A Brain Storm Optimization-based Adaptive Latent Factor Analysis Model.** 
   __Qing Li__, Mingsheng Shang. *Information Sciences*, 578:913-929, 2021. [Full text](https://www.sciencedirect.com/science/article/abs/pii/S0020025521008653)
 
-* **A Compressed Sensing and Porous 9-7 Wavelet Transform-based Image Fusion Algorithm.** 
-  __Qing Li__, Mingsheng Shang. *2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, 4185-4191, 2020. [Full text](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9702154)
 
 Patents
 ======
