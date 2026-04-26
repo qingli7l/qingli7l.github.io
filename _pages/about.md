@@ -42,8 +42,6 @@ Selected Publications
 * **BALFA: A Brain Storm Optimization-based Adaptive Latent Factor Analysis Model.** 
   __Qing Li__, Mingsheng Shang. *Information Sciences*, 578:913-929, 2021. [Full text](https://www.sciencedirect.com/science/article/abs/pii/S0020025521008653)
 
-* **An Efficient Annealing-Assisted Differential Evolution for Multi-parameter Adaptive Latent Factor Analysis.** 
-  __Qing Li__, Guansong Pang, Mingsheng Shang. *Journal of Big Data*, 9(1):95, 2022. [Full text](https://link.springer.com/article/10.1186/s40537-022-00638-8)
 
 Patents
 ======
