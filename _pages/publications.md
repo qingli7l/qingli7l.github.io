@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-## Selected publications
+## Selected publications (*equal contribution, #corresponding)
 
 * **Progress and Opportunities of Foundation Models in Bioinformatics.**
   __Qing Li__, Zhihang Hu, Yixuan Wang, Lei Li, Yimin Fan, Irwin King, Gengjie Jia, Sheng Wang, Le Song<sup>#</sup>, Yu Li<sup>#</sup>. *Briefings in Bioinformatics*, 25(6):bbae548, 2024. [Full text](https://academic.oup.com/bib/article/25/6/bbae548/7842778)
