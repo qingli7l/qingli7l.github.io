@@ -1,10 +1,11 @@
+<!-- 
 ---
 layout: archive
 title: "Activities"
 permalink: /activities/
 author_profile: true
 ---
-
+--> 
 
 ## Conferences
  * 2026/01/01--2026/01/05 Honolulu, United States
