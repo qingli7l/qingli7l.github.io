@@ -13,10 +13,10 @@ author_profile: true
   __Qing Li__, Zhihang Hu, Yixuan Wang, Lei Li, Yimin Fan, Irwin King, Gengjie Jia, Sheng Wang, Le Song<sup>#</sup>, Yu Li<sup>#</sup>. *Briefings in Bioinformatics*, 25(6):bbae548, 2024. [Full text](https://academic.oup.com/bib/article/25/6/bbae548/7842778)
 
 * **Developing ChatGPT for Biology and Medicine: A Complete Review of Biomedical Question Answering.**
-  __Qing Li<sup>*</sup>__, Lei Li<sup>*</sup>, Yu Li<sup>#</sup>. *Biophysics Reports*, 10(3):152-171, 2024. [Full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11252240/pdf/br-10-3-152.pdf)
+  **Qing Li<sup>*</sup>**, Lei Li<sup>*</sup>, Yu Li<sup>#</sup>. *Biophysics Reports*, 10(3):152-171, 2024. [Full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11252240/pdf/br-10-3-152.pdf)
 
 * **Multi-scale Global Consistency Residue Feature Enhancement based Protein Structure Analysis.**
-  __Qing Li__<sup>*</sup>, Bingqing Du<sup>*</sup>, Xiaolin Qin<sup>#</sup>, Jiguang Zhang, Shibiao Xu. *Proceedings of the 2023 9th International Conference on Communication and Information Processing*, Association for Computing Machinery, New York, NY, USA, 24–30, 2024. [Full text](https://dl.acm.org/doi/pdf/10.1145/3638884.3638889)
+  **Qing Li<sup>*</sup>**, Bingqing Du<sup>*</sup>, Xiaolin Qin<sup>#</sup>, Jiguang Zhang, Shibiao Xu. *Proceedings of the 2023 9th International Conference on Communication and Information Processing*, Association for Computing Machinery, New York, NY, USA, 24–30, 2024. [Full text](https://dl.acm.org/doi/pdf/10.1145/3638884.3638889)
 
 * **Adjusted Stochastic Gradient Descent for Latent Factor Analysis.**
   __Qing Li__, Diwen Xiong, Mingsheng Shang<sup>#</sup>. *Information Sciences*, 588:196-213, 2022. [Full text](https://www.sciencedirect.com/science/article/pii/S0020025521012871)
