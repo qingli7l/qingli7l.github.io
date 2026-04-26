@@ -31,9 +31,9 @@ author_profile: true
    * Intelligent Computing and Big Data Conference of Chengdu Information Technology of Chinese Academy of Sciences
 
 ## Reviewer
-* Nature Computational Science
-* Nature Communications
 * Nature Protocols
+* Nature Communications
+* Nature Computational Science
 * IEEE Transactions on Industrial Informatics
 * IEEE/CAA Journal of Automatica Sinica
 * IEEE International Conference on Systems, Man, and Cybernetics
