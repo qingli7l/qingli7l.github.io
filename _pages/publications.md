@@ -9,6 +9,9 @@ author_profile: true
 
 ## Selected publications (*equal contribution, #corresponding)
 
+* **SCMBench: benchmarking domain-specific and foundation models for single-cell multi-omics data integration.**
+  Yixuan Wang, Yimin Fan, Xuesong Wang, Tingyang Yu, Yongshuo Zong, Xinyuan Liu, Gaoyang Zhong, Meitong Liu, __Qing Li__, Kin Hei Lee, Khachatur Dallakyan, Zhichao Hu, Yaqian Qi, Junjie Huang, Gengjie Jia, Jiao Yuan, Ting-Fung Chan, Xin Gao, Irwin King, Yu Li<sup>#</sup>. *Nature Communications*, 2026, https://doi.org/10.1038/s41467-026-72570-x. [Full text](https://www.nature.com/articles/s41467-026-72570-x#citeas)
+
 * **Progress and Opportunities of Foundation Models in Bioinformatics.**
   __Qing Li__, Zhihang Hu, Yixuan Wang, Lei Li, Yimin Fan, Irwin King, Gengjie Jia, Sheng Wang, Le Song<sup>#</sup>, Yu Li<sup>#</sup>. *Briefings in Bioinformatics*, 25(6):bbae548, 2024. [Full text](https://academic.oup.com/bib/article/25/6/bbae548/7842778)
 
