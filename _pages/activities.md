@@ -7,6 +7,10 @@ author_profile: true
 
 
 ## Conferences
+ * 2026/11/06-2026/11/09 Chicago, Illinois, United States
+   * **American Heart Association’s Scientific Sessions 2026**
+ * 2026/08/02-2026/08/05 Buffalo, New York, United States
+   * **The International Conference on Intelligent Biology and Medicine 2026 (ICIBM 2026)**
  * 2026/01/01--2026/01/05 Honolulu, United States
    * **Frontiers in Cardiovascular Research 2026 Program**
  * 2025/10/22 Houston, United States
