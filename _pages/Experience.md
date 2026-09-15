@@ -14,7 +14,7 @@ author_profile: true
 * 11/2023–11/2024, Postdoc, AI for Science and Bioinformatics
    * **The Chinese University of Hong Kong, Hong Kong SAR**
 
-* 02/2021–02/2022, internship, Deep Learning
+* 02/2021–02/2022, Internship, Deep Learning
    * **Institute of Automation, CAS, Beijing, China** 
 
 
