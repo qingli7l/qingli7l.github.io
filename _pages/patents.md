@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /Education and Employment/
+permalink: /Experience/
 author_profile: true
 ---
 
