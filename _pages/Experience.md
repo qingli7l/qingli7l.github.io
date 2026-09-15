@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-## EMPLOYMENT
+## Employment 
 * 03/2025–Present, Postdoc, Computational Biology.
 * **Houston Methodist, Weill Cornell Medical College, Houston, U.S.**
 
@@ -20,7 +20,7 @@ author_profile: true
 * 09/2019–06/2023, Doctoral Co-training, Big Data Analysis.
 * **Chinese Academy of Sciences, Chongqing, China.**
 
-## EDUCATION
+## Education
 * 09/2019–06/2023, Doctor of Engineering, Computer Science and Technology.
 * **Chongqing University of Posts and Telecommunications, Chongqing, joint with Chongqing Institute of Green and Intelligent Technology, Chinese Academy of Sciences, China.**
 
