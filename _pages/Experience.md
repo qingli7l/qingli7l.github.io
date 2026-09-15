@@ -22,7 +22,7 @@ author_profile: true
 
 ## EDUCATION
 *09/2019–06/2023*
-* **Chongqing University of Posts and Telecommunications, Chongqing, China. Doctoral of Engineering, Computer Science and Technology.**
+* **Chongqing University of Posts and Telecommunications, Chongqing, joint with Chongqing Institute of Green and Intelligent Technology, Chinese Academy of Sciences, China. Doctoral of Engineering, Computer Science and Technology.**
 
 *09/2016–06/2019*
 * **University of Chinese Academy of Sciences, Beijing, China. Master of Engineering, Computer Application Technology.** 
