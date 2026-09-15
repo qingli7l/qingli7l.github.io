@@ -38,3 +38,8 @@ author_profile: true
 
 * **NSA-CSIPSO: satellite navigation signal acquisition method based on compressed sensing using improved particle swarm optimization.**
   __Qing Li__, Lige Zhang, Xiaolin Qin<sup>#</sup>, Weiyi Chen. *2018 10th International Conference on Communication Software and Networks (ICCSN)*, 290-295, 2018. [Full text](https://ieeexplore.ieee.org/abstract/document/8488308)
+
+
+## Patents
+* **An Alzheimer's disease detection device based on support vector machines.**
+  Nengfeng Zhang, __Qing Li__, Xin Luo. *CN112155550A*, 2021.
