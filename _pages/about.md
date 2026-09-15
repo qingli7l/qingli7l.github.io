@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Postdoctoral Fellow in the Department of Cardiovascular Sciences at Houston Methodist Research Institute, Weill Cornell Medical College, working at the intersection of artificial intelligence, computational pathology, and translational cardiovascular medicine. Trained originally in mathematical modeling and large-scale optimization, I now develop multimodal foundation models that recover molecular and cellular states directly from routine H&E histology, enabling virtual spatial transcriptomics without costly sequencing infrastructure. As lead first author of Fuji, we integrated 60,000 whole-slide images with WGS and scRNA-seq to decode genomic evolutionary states from histology (Nature Communications, in revision), and as co-first author of Loki 2, I helped establish a new benchmark for single-cell resolution molecular decoding (Nature, in revision). My ongoing project reconstructs latent signaling fields in situ through reaction-diffusion modeling and optimal transport. I have extensive experience leading collaborative teams, developing computational methods, and generating novel biomedical insights across cancer, cardiovascular, and developmental biology.
 
-Research Interests: AI for Science, Computational Biology, Big Data Analysis, and Evolutionary Computation. 
+Research Interests: Computational Biology, AI for Science, Big Data Analysis, and Evolutionary Computation. 
 
 <!--
 Preprints
