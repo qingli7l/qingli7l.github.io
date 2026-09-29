@@ -8,10 +8,10 @@ author_profile: true
 
 
 ## Employment 
-* 03/2025–Present, Postdoc, Computational Biology
+* 03/2025–Present, Postdoctoral Fellow, Computational Biology
    * **Houston Methodist, Weill Cornell Medical College, Houston, U.S.**
 
-* 11/2023–11/2024, Postdoc, AI for Science and Bioinformatics
+* 11/2023–11/2024, Postdoctoral Fellow, AI for Science and Bioinformatics
    * **The Chinese University of Hong Kong, Hong Kong SAR**
 
 * 02/2021–02/2022, Internship, Deep Learning
